@@ -7,9 +7,9 @@ Notes:
 - If you want compiled binaries removed from the repository history entirely, tell me and I can guide you through a rewrite (this is more advanced).
 
 Structure:
-- `Step-1 - Babylaying/` — beginner examples
-- `Step-2 - Babysitting/` — simple control flow and operators
-- `Step-3 - Babycrawling/` — intermediate problems (loops, functions)
-- `Step-4 - Babystanding/` — pattern printing and practice problems
+- `Level - 1 /` — beginner examples
+- `Level - 2 /` — simple control flow and operators
+- `Level - 3 /` — intermediate problems (loops, functions)
+- `Level - 4 /` — pattern printing and practice problems
 
 Happy learning! If you'd like, I can also add build instructions or split the repo into smaller projects.
